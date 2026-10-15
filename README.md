@@ -26,13 +26,13 @@ Aimed at users who use voice dictation heavily and want their mics, gain staging
 ## Installation
 
 ```bash
-claude plugins install claude-pipewire-skills@danielrosehill
+claude plugins install pipewire-audio@danielrosehill
 ```
 
 Or at project scope from inside a specific repo:
 
 ```bash
-claude plugins install claude-pipewire-skills@danielrosehill --scope project
+claude plugins install pipewire-audio@danielrosehill --scope project
 ```
 
 ## Requirements

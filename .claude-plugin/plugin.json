@@ -1,6 +1,6 @@
 {
-  "name": "claude-pipewire-skills",
-  "version": "1.0.0",
+  "name": "pipewire-audio",
+  "version": "1.1.0",
   "description": "Claude Code skills for taming Pipewire/Wireplumber audio on Linux — manage default devices, persistent device-priority rules, per-app routing, mic level checks, and EasyEffects bindings.",
   "author": {
     "name": "Daniel Rosehill",
